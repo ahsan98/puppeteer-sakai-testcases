@@ -1,0 +1,17 @@
+{
+  "name": "sakai-test",
+  "version": "1.0.0",
+  "description": "Test cases for sakai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2",
+    "puppeteer": "^3.1.0"
+  }
+}
